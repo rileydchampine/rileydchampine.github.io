@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: ##003300;
+    color: #444;
 }
 a:hover {
     text-decoration: underline;
@@ -31,7 +31,7 @@ p {
     font-size: 1.3em;
     line-height: 1.4em;
     color: #333;
-    font-family:'Caslon', 'Times New Roman';
+    font-family:'Georgia', 'Times New Roman';
 }
 footer {
     border-top: 1px solid #d5d5d5;

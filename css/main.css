@@ -33,6 +33,14 @@ p {
     color: #333;
     font-family:'Georgia', 'Times New Roman';
 }
+
+p2 {
+    font-size 1.1em;
+    line-height 1.2em;
+    font-family:'Georgia', 'Times New Roman';
+}
+
+}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;

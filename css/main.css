@@ -75,8 +75,7 @@ img.maps {
 }
 
 img:hover {
-    opacity: .1;
-    filter: alpha(opacity=100); /* For IE8 and earlier */
+    opacity: .7;
 }
 
 hr {

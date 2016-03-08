@@ -14,12 +14,17 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #853;
+    color: green;
     
 }
 a:hover {
     text-decoration: underline;
 }
+
+a:visited {
+    color: gray;
+}
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';

@@ -29,17 +29,14 @@ h3 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1em;
+    font-size: 1.1em;
     line-height: 1.2em;
     color: #333;
     font-family: 'Georgia', 'Times New Roman';
-    margin-top: 0em;
-    margin-bottom: 0em;
 }
 
 
 footer {
-    margin-top: 10px
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }

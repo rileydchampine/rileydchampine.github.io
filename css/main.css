@@ -46,6 +46,13 @@ p {
     font-family: 'Georgia', 'Times New Roman';
 }
 
+p.skills {
+    font-size: .9em;
+    line-height: 1.0em;
+    color: #666;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
 
 footer {
     border-top: 1px solid #d5d5d5;

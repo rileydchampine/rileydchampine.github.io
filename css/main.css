@@ -25,7 +25,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h3 {
-    font-size: 1.3em;
+    font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
@@ -64,7 +64,7 @@ img {
 }
 
 img:hover {
-    opacity: .8;
+    opacity: .7;
     filter: alpha(opacity=100); /* For IE8 and earlier */
 }
 
@@ -73,8 +73,8 @@ hr {
     display: block;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: auto;
+    margin-right: auto;
     border-style: inset;
     border-width: 1px;
 }

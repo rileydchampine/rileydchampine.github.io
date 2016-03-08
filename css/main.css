@@ -65,7 +65,7 @@ img {
 }
 
 img:hover {
-    opacity: .7;
+    opacity: .1;
     filter: alpha(opacity=100); /* For IE8 and earlier */
 }
 
@@ -79,5 +79,5 @@ hr {
     border-style: inset;
     border-width: 1px;
 }
-}
+
 
